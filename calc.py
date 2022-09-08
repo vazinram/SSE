@@ -15,6 +15,9 @@ def subtract(x,y):
 
 def divide(x,y):
 	return x/y
+
+def square(x,y):
+    return x ** y
     
 if z==1:
     print(add(x,y))
@@ -24,3 +27,4 @@ elif z == 3:
     print(subtract(x,y))
 elif z==4:
     print(divide(x,y))
+    
