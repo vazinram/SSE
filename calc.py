@@ -1,3 +1,6 @@
+x = int(input("please enter number one for ADD:"))
+y = int(input("please enter number two for ADD:"))
+
 #Basic 2-number Calculator Functions
 def add(x,y):
 	pass
