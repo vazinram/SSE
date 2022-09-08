@@ -14,11 +14,6 @@ def subtract(x,y):
 def divide(x,y):
 	return x/y
     
-<<<<<<< HEAD
-out = add(x, y)
-
-print(out)
-=======
 if z==1:
     print(add(x,y))
 elif z==2:
@@ -27,4 +22,3 @@ elif z == 3:
     print(subtract(x,y))
 elif z==4:
     print(divide(x,y))
->>>>>>> f46d112935153fa44b19695d0d1960a9aaab966d
